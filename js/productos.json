@@ -1,0 +1,152 @@
+[
+    {
+        "id": "Armadura-01",
+        "titulo": "Armadura 01",
+        "imagen": "img/armaduras/armaduras_01.jpg",
+        "categoria": {
+            "nombre": "Armaduras",
+            "id": "armaduras"
+        },
+        "precio": 7687
+    },
+    {
+        "id": "Armadura-02",
+        "titulo": "Armadura 02",
+        "imagen": "img/armaduras/armaduras_02.jpg",
+        "categoria": {
+            "nombre": "Armaduras",
+            "id": "armaduras"
+        },
+        "precio": 4334
+    },
+    {
+        "id": "Armadura-03",
+        "titulo": "Armadura 03",
+        "imagen": "img/armaduras/armaduras_03.jpg",
+        "categoria": {
+            "nombre": "Armaduras",
+            "id": "armaduras"
+        },
+        "precio": 9673
+    },
+    {
+        "id": "Armadura-04",
+        "titulo": "Armadura 04",
+        "imagen": "img/armaduras/armaduras_04.jpg",
+        "categoria": {
+            "nombre": "Armaduras",
+            "id": "armaduras"
+        },
+        "precio": 3470
+    },
+    {
+        "id": "Armadura-05",
+        "titulo": "Armadura 05",
+        "imagen": "img/armaduras/armaduras_05.jpg",
+        "categoria": {
+            "nombre": "Armaduras",
+            "id": "armaduras"
+        },
+        "precio": 4654
+    },
+    {
+        "id": "arma-01",
+        "titulo": "arma 01",
+        "imagen": "img/armas/armas_01.jpg",
+        "categoria": {
+            "nombre": "armas",
+            "id": "armas"
+        },
+        "precio": 4538
+    },
+    {
+        "id": "arma-03",
+        "titulo": "arma 03",
+        "imagen": "img/armas/armas_03.jpg",
+        "categoria": {
+            "nombre": "armas",
+            "id": "armas"
+        },
+        "precio": 1456
+    },
+    {
+        "id": "arma-04",
+        "titulo": "arma 04",
+        "imagen": "img/armas/armas_04.jpg",
+        "categoria": {
+            "nombre": "armas",
+            "id": "armas"
+        },
+        "precio": 4890
+    },
+    {
+        "id": "arma-5",
+        "titulo": "arma 5",
+        "imagen": "img/armas/armas_05.jpg",
+        "categoria": {
+            "nombre": "armas",
+            "id": "armas"
+        },
+        "precio": 7837
+    },
+    {
+        "id": "arma-06",
+        "titulo": "arma 06",
+        "imagen": "img/armas/armas_06.jpg",
+        "categoria": {
+            "nombre": "armas",
+            "id": "armas"
+        },
+        "precio": 4569
+    },
+    {
+        "id": "arma-07",
+        "titulo": "arma 07",
+        "imagen": "img/armas/armas_07.jpg",
+        "categoria": {
+            "nombre": "armas",
+            "id": "armas"
+        },
+        "precio": 7654
+    },
+    {
+        "id": "Joya-01",
+        "titulo": "Joya 01",
+        "imagen": "img/joyas/joyas_01.jpg",
+        "categoria": {
+            "nombre": "joyas",
+            "id": "joyas"
+        },
+        "precio": 9117
+    },
+   {
+        "id": "Joya-02",
+        "titulo": "Joya 02",
+        "imagen": "img/joyas/joyas_02.jpg",
+        "categoria": {
+            "nombre": "joyas",
+            "id": "joyas"
+        },
+        "precio": 4567
+    },
+    {
+        "id": "Joya-03",
+        "titulo": "Joya 03",
+        "imagen": "img/joyas/joyas_03.jpg",
+        "categoria": {
+            "nombre": "joyas",
+            "id": "joyas"
+        },
+        "precio": 4763
+    },
+    {
+        "id": "Joya-04",
+        "titulo": "Joya 04",
+        "imagen": "img/joyas/joyas_04.jpg",
+        "categoria": {
+            "nombre": "joyas",
+            "id": "joyas"
+        },
+        "precio": 8984
+    }
+]
